@@ -1,6 +1,5 @@
 # Power BI Interactive Dashboard - Customer Performance Analysis
 
-![Dashboard Preview](dashboard_preview.png)
 
 Welcome to the Power BI Interactive Dashboard for analyzing customer performance based on the customer database of a large retail store. This repository contains all the necessary resources and files to help you set up and utilize the dashboard effectively.
 
